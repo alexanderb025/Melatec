@@ -18,7 +18,7 @@ const Cook = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 my-16 space-x-5">
           <div className="col-span-6 flex justify-start">
             <Image
-              src="/images/Cook/ban2.jpg"
+              src="/images/Cook/tdigital.jpg"
               alt="nothing"
               className="rounded-3xl"
               width={636}
@@ -57,15 +57,16 @@ const Cook = () => {
               triggerOnce={true}
             >
               <p className="text-grey md:text-lg font-normal mb-10 text-start mt-2">
-                Melatec es una empresa con más de 20 años de experiencia en el
-                diseño y armado de muebles de melamine, desde nuestros inicios
-                trabajamos con materiales y acabado de primera calidad, lo que
-                hace que nuestros clientes queden satisfechos.{" "}
+                Innova Systems Solutions es una empresa especialista y experta en ofrecer soluciones innovadoras y significativas
+                en el mundo digital. Nuestras soluciones se centran en asistir a las empresas en la formulación de su estrategia digital,
+                orientándola hacia buenos resultados. Nos especializamos en la creación de nuevos modelos de negocios y en la selección
+                cuidadosa de herramientas y procesos adecuados, garantizando el funcionamiento continuo y eficiente de todo el entorno
+                digital.{" "}
               </p>
               <p className="text-grey md:text-lg font-normal mb-10 text-start mt-1">
-                Queremos seguir siendo una empresa posisionada en el sector, y
-                seguir haciendo felices a más familias peruanas con nuestros
-                modernos y deslumbrantes muebles.
+                Nuestra visión es ser reconocidos como líderes en la vanguardia de la innovación tecnológica, inspirando constantemente el
+                cambio y la evolución en la era digital. Vislumbramos un futuro donde nuestra experiencia en sistemas digitales conecta a
+                las personas, empresas y comunidades.
               </p>
               {/* <div className="flex align-middle justify-center md:justify-start">
                 <button className="text-xl font-medium rounded-full text-white py-5 px-6 bg-pink lg:px-10 mr-6">

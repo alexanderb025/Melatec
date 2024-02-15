@@ -45,9 +45,11 @@ const Navbar = () => {
                 />
                 <Link
                   href="#home-section"
-                  className="text-2xl font-semibold text-pink ml-4"
+                  className="text-2xl font-semibold text-pink ml-3"
                 >
-                  INNOVA SYSTEMS SOLUTIONS
+                  INNOVA SYSTEMS
+                  <br />
+                  SOLUTIONS
                 </Link>
               </div>
               <div className="hidden sm:flex flex-shrink-0 items-center border-right">
@@ -59,9 +61,11 @@ const Navbar = () => {
                 />
                 <Link
                   href="#home-section"
-                  className="text-2xl font-semibold text-pink ml-4"
+                  className="text-2xl font-semibold text-pink ml-3"
                 >
-                  INNOVA SYSTEMS SOLUTIONS
+                  INNOVA SYSTEMS
+                  <br />
+                  SOLUTIONS
                 </Link>
               </div>
 

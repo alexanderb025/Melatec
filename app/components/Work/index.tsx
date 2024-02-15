@@ -14,26 +14,26 @@ interface cardDataType {
 const cardData: cardDataType[] = [
   {
     imgSrc: "/images/Features/exclu.svg",
-    heading: "Modernidad",
-    subheading: "Diseñamos los modelos mas exclusivos de muebles en melamine",
+    heading: "Adaptabilidad",
+    subheading: "Creamos soluciones de software personalizadas para satisfacer las necesidades específicas de tu empresa",
     link: "Learn more",
   },
   {
     imgSrc: "/images/Features/design.svg",
     heading: "Diseño",
-    subheading: "El diseño de tu mueble es cortesía de la empresa (Previo contrato)",
+    subheading: "Nos enfocamos en crear interfaces de usuario intuitivas y atractivas, asegurando una experiencia de usuario excepcional.",
     link: "Learn more",
   },
   {
     imgSrc: "/images/Features/time.svg",
-    heading: "Puntualidad",
-    subheading: "Trabajamos con responsabilidad y puntualidad",
+    heading: "Responsabilidad",
+    subheading: "Contamos con un equipo técnico ágil que responde rápidamente a problemas, minimizando el tiempo de inactividad y optimizando la eficiencia.",
     link: "Learn more",
   },
   {
     imgSrc: "/images/Features/fast.svg",
-    heading: "Inmediatez",
-    subheading: "Respuesta inmediata comunicandose al +51965050141",
+    heading: "Actualizaciones",
+    subheading: "Ofrecemos desarrollo continuo y actualizaciones ágiles para adaptarnos a la evolución de las tecnologías.",
     link: "Learn more",
   },
 ];
@@ -62,8 +62,9 @@ const Work = () => {
             triggerOnce={true}
           >
             <p className="text-3xl lg:text-5xl font-semibold text-lightgrey">
-              Muebles de melamine <br /> de primera calidad
+              Servicios y consultoría de TI <br /> Desarrollo de Software a medida
             </p>
+            <br/><br/>
           </Fade>
         </div>
 

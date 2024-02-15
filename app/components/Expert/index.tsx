@@ -14,14 +14,14 @@ interface DataType {
 
 const postData: DataType[] = [
     {
-        profession: 'Marca de melamine de alta calidad',
-        name: 'Melamine Pelikano',
-        imgSrc: '/images/Expert/pelik.jpeg',
+        profession: 'Tienda de muebles de alta calidad',
+        name: 'Melatec',
+        imgSrc: '/images/Expert/melatec.jpg',
     },
     {
-        profession: 'Accesorios diversos para armado de muebles',
-        name: 'Danco',
-        imgSrc: '/images/Expert/danco.svg',
+        profession: 'Polos con diseños de las mejores marcas',
+        name: 'EDRI',
+        imgSrc: '/images/Expert/edri.jpg',
     },
     {
         profession: 'Visagras y tornillos de alta calidad',
@@ -86,11 +86,11 @@ export default class MultipleItems extends Component {
                 <div className='mx-auto max-w-2xl lg:max-w-7xl sm:py-4 lg:px-8'>
                     <div className="text-center">
                         <Fade direction={'up'} delay={400} cascade damping={1e-1} triggerOnce={true}>
-                            <h2 className='text-pink text-lg font-normal mb-3 tracking-widest uppercase ls-51'>Marcas</h2>
+                            <h2 className='text-pink text-lg font-normal mb-3 tracking-widest uppercase ls-51'>Casos de éxito</h2>
                         </Fade>
                         <Fade direction={'up'} delay={800} cascade damping={1e-1} triggerOnce={true}>
                             <h3 className="text-3xl lg:text-5xl font-semibold text-black">
-                                Trabajamos con las marcas mas importantes
+                                Empresas que transformaron su rumbo digitalmente
                             </h3>
                         </Fade>
                     </div>

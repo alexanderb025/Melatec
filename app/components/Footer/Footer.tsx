@@ -47,7 +47,7 @@ const products: ProductType[] = [
   {
     id: 2,
     section: "Contacto",
-    link: ["Comunicate al +51965050141*"],
+    link: ["Comunicate al +51975031928*"],
     ref: [""],
   },
   {
@@ -72,15 +72,15 @@ const footer = () => {
               width={80}
               height={80}
             />
-            <Link href="/" className="text-2xl font-semibold text-pink ml-4">
-              MELATEC
+            <Link href="/" className="text-2xl font-semibold text-pink ml-3">
+              INNOVA SYSTEMS SOLUTIONS
             </Link>
           </div>
           <div className="flex">
             <FaLocationDot className="mt-4"></FaLocationDot>
             <h3 className="text-textbl text-xs font-medium mt-5 ml-2">
               {" "}
-              Av. Mansiche 1758 frente a expomall
+              Av. Mansiche 1758 Frente al Expomall
             </h3>
           </div>
 
@@ -132,7 +132,7 @@ const footer = () => {
 
       <div className="py-10 md:flex items-center justify-between border-t border-t-bordertop">
         <h4 className="text-darkgrey text-sm text-center md:text-start font-normal">
-          @2023 - MELATEC
+          @2024 - INNOVA SYSTEMS SOLUTIONS
         </h4>
         {/* <div className="flex gap-5 mt-5 md:mt-0 justify-center md:justify-start">
                     <h4 className='text-darkgrey text-sm font-normal'><Link href="/" target="_blank">Privacy policy</Link></h4>

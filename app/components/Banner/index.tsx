@@ -17,8 +17,8 @@ const Banner = () => {
               triggerOnce={true}
             >
               <h1 className="text-4xl lg:text-7xl font-semibold mb-5 text-lightgrey md:4px lg:text-start text-center">
-                CONFÍA EN
-                <br /> LOS EXPERTOS
+                IMPULSA TU EMPRESA HACIA
+                <br /> LA ERA DIGITAL
               </h1>
             </Fade>
             <Fade
@@ -29,8 +29,9 @@ const Banner = () => {
               triggerOnce={true}
             >
               <p className="text-grey lg:text-lg font-normal mb-10 lg:text-start text-center">
-                Somos especialistas en el diseño y armado <br /> de todo tipo de
-                muebles de melamine hechos <br /> a la medida y gusto del cliente.
+                Somos expertos y profesionales dedicados a la administración digital de empresas y
+                organizaciones. Nos caracteriza nuestra pasión y rigurosidad en la exploración continua
+                de enfoques innovadores adaptados a las necesidades específicas de cada tipo de negocio.
               </p>
             </Fade>
             <Fade
@@ -61,11 +62,11 @@ const Banner = () => {
                 height={68}
               />
               <p className="text-lg font-normal">
-                Más de 20 años <br /> de experiencia.
+                ¡Transforma ya <br /> tu negocio!.
               </p>
             </div>
             <Image
-              src="/images/Banner/mueble.avif"
+              src="/images/Banner/digital.jpg"
               className="rounded-2xl"
               alt="nothing"
               width={400}
