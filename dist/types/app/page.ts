@@ -1,4 +1,4 @@
-// File: C:\xampp\htdocs\landingmelatec\Melatec\app\page.tsx
+// File: D:\innova_Landing\Melatec\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

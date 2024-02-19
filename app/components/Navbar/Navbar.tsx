@@ -52,7 +52,7 @@ const Navbar = () => {
                   SOLUTIONS
                 </Link>
               </div>
-              <div className="hidden sm:flex flex-shrink-0 items-center border-right">
+              <div className="hidden sm:flex flex-shrink-0 items-center border-right pr-10">
                 <Image
                   src="/images/Logo/logo.jpg"
                   alt="logo"
